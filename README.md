@@ -14,10 +14,7 @@ The `nyc_bicycle_counts_2016.csv` gives information on bike traffic across a num
 
 `readme-nyc_bicycle_counts_2016.pdf` details the information contained in the data field.
 
-* `report.pdf`: A project report, which should consist of:
-  * A section with the names of the team members (maximum of two), your Purdue username(s), and the path (1 or 2 or 3) you have taken, with the github repository link.
-  * A section describing the dataset you are working with.
-  * A section describing the analyses you chose to use for each analysis question (with a paragraph or two justifying why you chose that analysis and what you expect the analysis to tell you).
-  * A section (or more) describing the results of each analysis, and what your answers to the questions are based on your results. Visual aids are helpful here to back up your conclusions. **Note that, it is OK if you do not get "positive" answers from your analysis, but you must explain why that might be**.
-
-* All Python `.py` code files you wrote to complete the analysis steps.
+* `MiniProject.pdf`: A project report, consists of:
+  * A section describing the dataset I worked with.
+  * A section describing the analyses I chose to use for each analysis question (with a justification of why I chose that analysis and what I expected the analysis to tell me).
+  * A section describing the results of each analysis, and what my answers to the questions are based on my results.
